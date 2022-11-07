@@ -4,4 +4,13 @@ $ pip install -r requirements.txt
 
 jika telah berhasil, silahkan dijalankan dengan perintah ini:
 
-Silahkan gunakan codingan
+silahkan jalan kedua perintah berikut dengan 2 terminal;
+
+$ airflow webserver -p 8080
+dan
+$ airflow scheduler
+
+untuk username dan password sebagai berikut:
+
+username :airflow
+password :admin1234
