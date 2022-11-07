@@ -14,3 +14,11 @@ untuk username dan password sebagai berikut:
 
 username :airflow
 password :admin1234
+
+
+PERHATIAN !!!
+untuk menjalankan scheduler sesuai case, pastikan website attritionApp dijalankan.
+
+silahkan download project attritionAppnya di link berikut:
+
+https://github.com/gmkhai/Machine-Learning/tree/main/AtrritionApp
